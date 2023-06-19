@@ -2,8 +2,8 @@
 
 ### I'm Raman.
 
-Here's what you need to know about me.
-📚 I'm a 2nd year at the University of Ottawa.
+Here's what you need to know about me: <br>
+📚 I'm a 2nd year at the University of Ottawa. <br>
 🔬 I'm expanding my skill set and exploring the world of web development.
 
 ⚡ These days, I'm doing a deep dive into JavaScript and learning it's ins and outs.
