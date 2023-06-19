@@ -12,4 +12,4 @@ Here's what you need to know about me: <br>
 <img src="assets/html.svg" style="margin-right: 15px;"/><img src="assets/css.svg" style="margin-right: 15px;"/><img src="assets/js.svg" style="margin-right: 15px;"/><img src="assets/sass.svg" style="margin-right: 15px;"/><img src="assets/vim.svg" style="margin-right: 15px;"/><img src="assets/git.svg" style="margin-right: 15px;"/>
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&theme=graywhite&hide=java)
