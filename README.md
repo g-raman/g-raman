@@ -3,8 +3,10 @@
 ### I'm Raman.
 
 Here's what you need to know about me: <br>
-📚 I'm a 2nd year at the University of Ottawa. <br>
-🔬 I'm expanding my skill set and exploring the world of web development.
+📚 I'm a 2nd year at the University of Ottawa <br>
+🌎 Based in Ottawa, Ontario <br>
+🔬 I'm expanding my skill set and exploring the world of web development <br>
+📫 You can reach me at gr.gupta.raman@gmail.com
 
 ⚡ These days, I'm doing a deep dive into JavaScript and learning it's ins and outs.
 
