@@ -1,6 +1,4 @@
-# HEY THERE 👋
-
-### I'm Raman.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1000&color=89B4FA&background=7865FF00&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Raman+Gupta)](https://git.io/typing-svg)
 
 Here's what you need to know about me: <br>
 📚 I'm a 2nd year at the University of Ottawa <br>
