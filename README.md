@@ -16,6 +16,6 @@ Here's what you need to know about me: <br>
 [![Languages](https://skillicons.dev/icons?i=js,html,css,python,java,lua)](https://skillicons.dev)
 
 **Developer tools:** <br />
-[![Tools](https://skillicons.dev/icons?i=neovim,vim,git,postman,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,vim,postman,figma,git,github)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&theme=graywhite&hide=java)
