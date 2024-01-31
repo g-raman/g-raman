@@ -31,4 +31,15 @@ Let's Connect!
 **Developer tools:** <br />
 [![Tools](https://skillicons.dev/icons?i=neovim,vim,postman,figma,git,github)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&theme=graywhite&hide=java)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_mocha" />
+</picture>
+
