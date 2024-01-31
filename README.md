@@ -1,12 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1000&color=89B4FA&background=7865FF00&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Raman+Gupta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1000&color=89B4FA&background=7865FF00&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Raman+Gupta)](https://git.io/typing-svg) 
+<br />
 
-Here's what you need to know about me: <br>
+### A little about me: <br>
 📚 I'm a 2nd year at the University of Ottawa <br>
 🌎 Based in Ottawa, Ontario <br>
-🔬 I'm expanding my skill set and exploring the world of web development <br>
-📫 You can reach me at gr.gupta.raman@gmail.com
+🔎 Exploring the world of Full Stack Development <br>
 
-⚡ These days, I'm doing a deep dive into JavaScript and learning it's ins and outs.
+⚡ These days, I'm doing a deep dive into *React* and learning its ins and outs.
+
+**🫕 [Checkout My Current Project](https://github.com/g-raman/uo-scraper)**
+
+Let's Connect!
+<div>
+  <a href="mailto:gr.gupta.raman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/gupta-raman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 # My Tech Stack
 **Technologies & Frameworks:** <br />
