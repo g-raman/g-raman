@@ -33,13 +33,13 @@ Let's Connect!
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_latte"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=default"
     media="(prefers-color-scheme: light)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_mocha"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=github_dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=catppuccin_mocha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=default" />
 </picture>
 
