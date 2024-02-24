@@ -23,7 +23,7 @@ Let's Connect!
 
 # My Tech Stack
 **Technologies & Frameworks:** <br />
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,sass)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,sass,docker)](https://skillicons.dev)
 
 **Languages:** <br />
 [![Languages](https://skillicons.dev/icons?i=js,html,css,python,java,lua)](https://skillicons.dev)
