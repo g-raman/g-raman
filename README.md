@@ -8,7 +8,7 @@
 
 ⚡ These days, I'm doing a deep dive into *React* and learning its ins and outs.
 
-**🫕 [Checkout My Current Project](https://github.com/g-raman/uo-scraper)**
+**🫕 [Checkout My Current Project](https://github.com/g-raman/uoEnroll)**
 
 Let's Connect!
 <div>
