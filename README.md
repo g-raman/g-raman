@@ -2,13 +2,13 @@
 <br />
 
 ### A little about me: <br>
-📚 I'm a 2nd year at the University of Ottawa <br>
+📚 I'm a 3rd year at the University of Ottawa <br>
 🌎 Based in Ottawa, Ontario <br>
-🔎 Exploring the world of Full Stack Development <br>
+🔎 Exploring the world of DevOps <br>
 
-⚡ These days, I'm doing a deep dive into *React* and learning its ins and outs.
+⚡ These days, I'm doing a deep dive into *AWS* and learning its ins and outs.
 
-**🫕 [Checkout My Current Project](https://github.com/g-raman/uoEnroll)**
+**🫕 [Checkout My Current Project](https://github.com/uoEnroll/uenrol)**
 
 Let's Connect!
 <div>
@@ -23,13 +23,13 @@ Let's Connect!
 
 # My Tech Stack
 **Technologies & Frameworks:** <br />
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,sass,docker)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,mongodb,postgres,supabase,express,tailwind,sass,docker,aws)](https://skillicons.dev)
 
 **Languages:** <br />
-[![Languages](https://skillicons.dev/icons?i=js,html,css,python,java,lua)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,java,lua,bash,powershell)](https://skillicons.dev)
 
 **Developer tools:** <br />
-[![Tools](https://skillicons.dev/icons?i=neovim,vim,postman,figma,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,neovim,vim,postman,figma,git,github)](https://skillicons.dev)
 
 <picture>
   <source
