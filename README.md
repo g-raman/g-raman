@@ -22,14 +22,20 @@ Let's Connect!
 </div>
 
 # My Tech Stack
-**Technologies & Frameworks:** <br />
-[![Frameworks](https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,mongodb,postgres,supabase,express,tailwind,sass,docker,aws)](https://skillicons.dev)
+**Front End:** <br />
+[![Front End](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass)](https://skillicons.dev)
+
+**Back End:** <br />
+[![Front End](https://skillicons.dev/icons?i=deno,nodejs,postgres,express,supabase,mongodb)](https://skillicons.dev)
+
+**DevOps:** <br />
+[![Frameworks](https://skillicons.dev/icons?i=aws,docker,terraform,jenkins)](https://skillicons.dev)
 
 **Languages:** <br />
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,java,lua,bash,powershell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,java,lua,bash,powershell)](https://skillicons.dev)
 
 **Developer tools:** <br />
-[![Tools](https://skillicons.dev/icons?i=linux,neovim,vim,postman,figma,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,neovim,vim,git,github,figma,postman)](https://skillicons.dev)
 
 <picture>
   <source
