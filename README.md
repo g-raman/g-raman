@@ -10,9 +10,9 @@
 
 **🫕 Checkout my current project**
 <br />
-[Live Demo](https://uenroll.ca)
+<a href="https://uenroll.ca" target="_blank">Live Demo</a>
 &nbsp;
-[Repo](https://github.com/g-raman/uenroll)
+<a href="https://github.com/g-raman/uenroll" target="_blank">Repo</a>
 
 Let's Connect!
 <div>
