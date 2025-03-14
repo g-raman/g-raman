@@ -8,14 +8,18 @@
 
 ⚡ These days, I'm doing a deep dive into *AWS* and learning its ins and outs.
 
-**🫕 [Checkout My Current Project](https://github.com/uoEnroll/uenrol)**
+**🫕 Checkout my current project**
+<br />
+[Live Demo](https://uenroll.ca)
+&nbsp;
+[Repo](https://github.com/g-raman/uenroll)
 
 Let's Connect!
 <div>
   <a href="mailto:gr.gupta.raman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  
+  &nbsp;
   <a href="https://www.linkedin.com/in/gupta-raman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
