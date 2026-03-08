@@ -4,7 +4,7 @@ Working on [uEnroll](https://uenroll.ca) - A moden schedule builder for students
 
 Links:
 <br />
-[Personal Site](https://raman.codes) 
+[Personal Site](https://ramangupta.dev) 
 <br />
 [LinkedIn](https://linkedin.com/in/raman)
 <br />
