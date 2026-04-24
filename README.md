@@ -1,6 +1,6 @@
 # Hey I'm Raman
 
-Working on [uEnroll](https://uenroll.ca) - A moden schedule builder for students at uOttawa.
+Working on [uEnroll](https://uenroll.ca) - A modern schedule builder for students at uOttawa.
 
 Links:
 <br />
